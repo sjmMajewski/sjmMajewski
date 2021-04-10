@@ -23,4 +23,4 @@ You can find the source code for Jekyll at GitHub:
 
 My name is Szymon Majewski, I am currently a postdoc at CMAP Ecole Polytechnique with Nicolas Chopin, Elisabeth Gaissat and Eric Moulines. The main theme of my research is optimization in the space of measures and it's applications in theoretical Machine Learning and Computational Statistics.
 
-I have a broad fascination with mathematical languages and insights that afford better understanding of living and cognitive processes, as well as aid the projects of building AI and ALife. I started this blog to practice public writing, share some of my intellectual journey and connect with people interested in similar topics. If you think you might be such a person, my DMs on twitter are open :)
+I have a broad fascination with mathematical languages and insights that afford deeper understanding of living and cognitive processes, as well as aid the projects of building AI and ALife. I started this blog to practice public writing, share some of my intellectual journey and connect with people interested in similar topics. If you think you might be such a person, my DMs on twitter are open :)
