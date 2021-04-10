@@ -21,7 +21,7 @@
 title: Flow Integration
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Playing in public with various ideas.
+  Playing in public, trying to integrate various flows of intentionality.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sjm_majewski
